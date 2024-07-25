@@ -1,0 +1,38 @@
+[
+ {
+   "id": 1,
+   "name": "manish",
+   "salary": 10000,
+   "address": "india"
+ },
+ {
+   "id": 2,
+   "name": "rani",
+   "salary": 20000,
+   "address": "usa"
+ },
+ {
+   "id": 3,
+   "name": "rinku",
+   "salary": 55000,
+   "address": "india"
+ },
+ {
+   "id": 4,
+   "name": "neha",
+   "salary": 12000,
+   "address": "usa"
+ },
+ {
+   "id": 5,
+   "name": "",
+   "salary": 20000,
+   "address": "usa"
+ },
+ {
+   "id": 6,
+   "name": "rahul",
+   "salary": null,
+   "address": "india"
+ }
+]
